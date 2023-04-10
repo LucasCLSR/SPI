@@ -67,3 +67,24 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+#conteudo{
+  /*Novamente definimos a largura da div*/
+  margin-left: auto;
+  margin-right: auto;
+  width: 750px;
+  /* altura da div */
+  height:100%;
+  /* Cor de fundo da div */
+  background-color:rgb(220, 220, 220);
+  text-align: center;
+}
+#footer{
+  margin: 0 auto;
+  width: 750px;
+  /* altura da div */
+  height: 100%;
+  /* Cor de fundo da div */
+  background-color:rgb(220, 220, 220);
+  text-align: center;
+}
